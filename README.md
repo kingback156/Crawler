@@ -1,21 +1,20 @@
 # phd_coding_exam
 
 ```
-|-- your dataset root dir/
-|   |-- <CUHK-PEDES>/
-|       |-- imgs
-|            |-- cam_a
-|            |-- cam_b
+|-- crawler_results/
+|   |-- result_1/
+|       |-- images
+|            |-- image_1.jpg
+|            |-- image_2.jpg
 |            |-- ...
-|       |-- reid_raw.json
+|       |-- page_content.json
 |
-|   |-- <ICFG-PEDES>/
-|       |-- imgs
-|            |-- test
-|            |-- train 
-|       |-- ICFG_PEDES.json
+|   |-- .../
 |
-|   |-- <RSTPReid>/
-|       |-- imgs
-|       |-- data_captions.json
+|   |-- result_10/
+|       |-- images
+|            |-- image_1.jpg
+|            |-- image_2.jpg
+|            |-- ...
+|       |-- page_content.json
 ```
