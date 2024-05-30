@@ -9,7 +9,7 @@
 |            |-- ...
 |       |-- page_content.json
 |
-|   |-- result_k(k\le 10)/
+|   |-- result_k(k<=10)/
 |
 |   |-- result_10/
 |       |-- images
